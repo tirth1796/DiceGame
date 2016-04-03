@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tirth Shah\Career\Code\Android\anagrams_starter\DiceGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Tirth Shah\Career\Code\Android\anagrams_starter\DiceGame\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f6dbde62d68676cffbff027a543030abc8a371c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tirth Shah\Career\Code\Android\anagrams_starter\DiceGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Tirth Shah\Career\Code\Android\anagrams_starter\DiceGame\app\build\intermediates\pre-dexed\debug\classes-543072453c397d7e001c811aae84941c8b178d01.jar" />
+    </item>
+    <item
+        jar="F:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Tirth Shah\Career\Code\Android\anagrams_starter\DiceGame\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-c082abb41dc8647fb78a8d5cf59a0f82b2a9055a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tirth Shah\Career\Code\Android\anagrams_starter\DiceGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Tirth Shah\Career\Code\Android\anagrams_starter\DiceGame\app\build\intermediates\pre-dexed\debug\classes-3e14e7d9d3f8d5f80611acbd78b121e54908540c.jar" />
+    </item>
+
+</items>
